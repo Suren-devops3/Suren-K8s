@@ -1,0 +1,10 @@
+# Download Kubens Package URL
+https://github.com/ahmetb/kubectx/releases
+
+#Quota, and Limits for QoS in Cluster 
+#Author Arun Gupta
+
+https://dzone.com/articles/kubernetes-namespaces-resource-quota-and-limits-fo
+
+# "Kubernetes Resource Quotas"
+https://alibaba-cloud.medium.com/kubernetes-resource-quotas-f2161607444e
